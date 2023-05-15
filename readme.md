@@ -105,6 +105,10 @@
 ## Далее была сделана примерная ER-диаграмма, по ссылке можно посмотреть:
 https://drive.google.com/file/d/1oHBli35o6d3BezAycajDkW-1WYmns9Fr/view?usp=sharing
 
+## Также создана база данных:
+По этой ссылке можно посмотреть какие таблицы и аттрибуты есть:
+https://github.com/rakhatyeskenov/testcrm/blob/master/db/entities.sql
+
 
 ## Также определили бизнес-процессы:
 
